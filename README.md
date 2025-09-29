@@ -1,6 +1,6 @@
 # 🚀 Formação JavaScript - DIO.me
 
-![Logo DIO JavaScript](./img/logo-dio-javascript.webp)
+![Logo DIO JavaScript](./img/logo-dio-javascript.png)
 
 ## 📚 Sobre a Formação
 
