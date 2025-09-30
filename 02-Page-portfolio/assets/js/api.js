@@ -4,3 +4,5 @@ async function fetchProfileData() {
     const profileData = await response.json()
     return profileData
 }
+
+// https://raw.githubusercontent.com/natalvidesneto/teste-portifolio/main/data/profile.json

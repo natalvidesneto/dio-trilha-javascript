@@ -1,10 +1,10 @@
 {
   "name": "Natalvides Neto",
-  "photo": "assets/img/my-photo.png",
+  "photo": "https://avatars.githubusercontent.com/u/153453733?v=4",
   "job": "Bacharel Engenharia de Software",
   "location": "Pará",
-  "phone": "(94) 99272-5562",
-  "email": "netonatalvides@gmail.com",
+  "phone": "(94) 9999-9999",
+  "email": "emailtestedoneto@gmail.com",
   "skills": {
     "hardSkills": [
       {
