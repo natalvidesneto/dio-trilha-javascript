@@ -1,5 +1,5 @@
-# Pokedex simples
-![Imagem](./assets/img/img.png)
+# Pokedex
+![Pokedex-02](./assets/img/pokedex.png)
 
 ## Descrição do Projeto
 Sistema de Visualização de Pokémons
